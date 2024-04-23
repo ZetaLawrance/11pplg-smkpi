@@ -9,5 +9,9 @@
 echo "My first PHP script!";
 ?>
 
+ <?php
+echo "My second PHP script!";
+?>
+
 </body>
 </html>
